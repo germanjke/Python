@@ -1,5 +1,5 @@
-"This programm shows how Python OOP works. Exactly Claases"
-"Exactly this proggram will score 1st, 2nd, 3rd element and avarage of 4th and 5th"
+#This programm shows how Python OOP works. Exactly Claases
+#Exactly this proggram will score 1st, 2nd, 3rd element and avarage of 4th and 5th
 class Sum:
     def __init__(self, A, B, C):
         self.A = A
