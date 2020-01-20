@@ -18,7 +18,7 @@ class Average:
         self.D = D
         self.E = E
     def ave(self):
-        return int(((self.D * self.E) / 2))
+        return (self.D + self.E) / 2
     def show(self):
         print('Your objects:')
         print('D: ', self.D)
