@@ -20,3 +20,12 @@
 ### If the implementation is hard to explain, it's a bad idea.
 ### If the implementation is easy to explain, it may be a good idea.
 ### Namespaces are one honking great idea -- let's do more of those!
+
+
+PEP:	20
+Title:	The Zen of Python
+Author:	tim.peters at gmail.com (Tim Peters)
+Status:	Active
+Type:	Informational
+Created:	19-Aug-2004
+Post-History:	22-Aug-2004
