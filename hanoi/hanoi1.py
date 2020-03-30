@@ -1,4 +1,4 @@
-# hanoi.py
+# hanoi1.py
 # From Classic Computer Science Problems in Python Chapter 1
 # Copyright 2018 David Kopec
 #
